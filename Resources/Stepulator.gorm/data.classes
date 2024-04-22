@@ -1,0 +1,109 @@
+{
+    "## Comment" = "Do NOT change this file, Gorm maintains it";
+    CalcController = {
+	Actions = (
+	    "butt0:",
+	    "butt1:",
+	    "butt2:",
+	    "butt3:",
+	    "butt4:",
+	    "butt5:",
+	    "butt6:",
+	    "butt7:",
+	    "butt8:",
+	    "butt9:",
+	    "buttDot:",
+	    "buttE:",
+	    "buttEnter:",
+	    "buttPlus:",
+	    "buttMinus:",
+	    "buttDivide:",
+	    "buttMultiply:",
+	    "buttSqrt:",
+	    "buttSqr:",
+	    "buttSin:",
+	    "buttCos:",
+	    "buttTan:",
+	    "buttASin:",
+	    "buttACos:",
+	    "buttATan:",
+	    "buttExp:",
+	    "buttLn:",
+	    "buttExp10:",
+	    "buttLog:",
+	    "buttXPowY:",
+	    "buttXRootY:",
+	    "buttPi:",
+	    "buttFact:",
+	    "buttPercent:",
+	    "buttInv:",
+	    "buttCanc:",
+	    "buttBksp:",
+	    "buttRot:",
+	    "buttSwapXY:",
+	    "buttChangeSign:"
+	);
+	Outlets = (
+	    displayField,
+	    buttSqrt,
+	    buttSqr,
+	    buttExp,
+	    buttExp10,
+	    buttBksp
+	);
+	Super = NSObject;
+    };
+    FirstResponder = {
+	Actions = (
+	    "butt0:",
+	    "butt1:",
+	    "butt2:",
+	    "butt3:",
+	    "butt4:",
+	    "butt5:",
+	    "butt6:",
+	    "butt7:",
+	    "butt8:",
+	    "butt9:",
+	    "buttACos:",
+	    "buttASin:",
+	    "buttATan:",
+	    "buttBksp:",
+	    "buttCanc:",
+	    "buttChangeSign:",
+	    "buttCos:",
+	    "buttDivide:",
+	    "buttDot:",
+	    "buttE:",
+	    "buttEnter:",
+	    "buttExp10:",
+	    "buttExp:",
+	    "buttFact:",
+	    "buttInv:",
+	    "buttLn:",
+	    "buttLog:",
+	    "buttMinus:",
+	    "buttMultiply:",
+	    "buttPercent:",
+	    "buttPi:",
+	    "buttPlus:",
+	    "buttRot:",
+	    "buttSin:",
+	    "buttSqr:",
+	    "buttSqrt:",
+	    "buttSwapXY:",
+	    "buttTan:",
+	    "buttXPowY:",
+	    "buttXRootY:"
+	);
+	Super = NSObject;
+    };
+    NSResponder = {
+	Actions = (
+	    "deselectAll:",
+	    "selectAll:",
+	    "selectText:"
+	);
+	Super = NSObject;
+    };
+}
